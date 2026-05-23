@@ -174,12 +174,9 @@ When emotions rise, fill this immediately:
 - Original system (Part 1, 12 chapters): → `references/original-system.md`
 - Advanced expansion (Part 2, 9 chapters): → `references/advanced-expansion.md`
 - Operating system (Part 3, 9 chapters): → `references/operating-system.md`
-- WeChat article style output: → `assets/wechat-article-style.md`
-- Khazix-style output: → `assets/khazix-style.md`
 
 ## Usage modes
 
 1. **Daily decisions**: Use 30-second trigger + quick-reference card
 2. **Deep analysis**: Run full four-step protocol + load references for advanced scenarios
-3. **Writing output**: Reference style templates in assets
-4. **Training progression**: Post-event review (L1) → Delayed response (L2) → Real-time recognition (L3) → Pre-design (L4) → No-form (L5)
+3. **Training progression**: Post-event review (L1) → Delayed response (L2) → Real-time recognition (L3) → Pre-design (L4) → No-form (L5)

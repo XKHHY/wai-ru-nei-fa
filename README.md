@@ -47,13 +47,6 @@ wai-ru-nei-fa/
 │   ├── original-system.md    # 原文体系（12章）
 │   ├── advanced-expansion.md # 升华拓展（9章）
 │   └── operating-system.md   # 操作系统（9章）
-├── assets/
-│   ├── wechat-article-style.md  # 微信公众号文章风格模板
-│   └── khazix-style.md          # 卡兹克风格模板
-└── scripts/
-    ├── morning-check.py    # 晨间启动清单
-    ├── weekly-review.py    # 周末复盘模板
-    └── decide.py           # 交互式四步决策辅助
 ```
 
 ## License
