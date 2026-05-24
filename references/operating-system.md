@@ -13,7 +13,7 @@
 
 ## 二十三、决策速查卡——关键情境的默认响应
 
-> 详见 SKILL.md「Quick-reference card」（12个场景）。以下为原文扩展场景。
+> 详见 SKILL.md「Quick-reference card」（20个场景）。以下为原文扩展场景。
 
 ---
 
