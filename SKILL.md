@@ -1,10 +1,10 @@
 ---
 name: wai-ru-nei-fa
-description: "Personal adaptive behavior framework: Expectation→Positioning→Empathy→Action. Confucian exterior (harmony) + Legalist interior (boundaries). Use for workplace decisions, interpersonal judgment, identity positioning, expectation management, boundary control, dealing with unfair treatment, painted promises, being scapegoated, layoffs, overtime pressure, office politics, workplace survival, AI-era anxiety, remote work boundaries, generational conflicts."
+description: "Personal adaptive behavior framework: Expectation→Positioning→Empathy→Action. Confucian exterior (harmony) + Legalist interior (boundaries). Use for workplace decisions, interpersonal judgment, identity positioning, expectation management, boundary control, dealing with unfair treatment, painted promises, being scapegoated, layoffs, overtime pressure, office politics, workplace survival, AI-era anxiety, remote work boundaries, generational conflicts, life decisions, relationship boundaries, family conflicts, self-management, procrastination."
 license: CC-BY-4.0
 metadata:
   author: "星空的后花园"
-  version: "3.0"
+  version: "3.2"
   lang: zh-CN
   changelog:
     v3.0: "Added eco-mode (environment design) to execution protocol; expanded scenario library with 8 AI-era/remote/generational scenarios; structured self-check tools; added scenario-library.md; updated training progression to include eco-level."
@@ -32,6 +32,9 @@ Load when the user mentions:
 - Confucian vs Legalist thinking, interior-exterior duality
 - AI 替代焦虑, 远程办公边界, 代际冲突, 副业, 环境设计
 - AI-era anxiety, remote work boundaries, generational conflicts, side projects, environment design
+- Life decisions, relationship boundaries, family conflicts, self-management
+- 生活决策, 关系边界, 家庭矛盾, 婆媳, 催婚, 催生, 朋友借钱, 社交拒绝, 拖延, 内耗
+- 伴侣消费观, 情绪低落拒绝沟通, 内推, 自我管理, 亲密关系
 
 ## Core framework
 
@@ -126,7 +129,7 @@ If yes, append an "环境设计建议" section:
 
 > Eco-mode is optional for daily decisions. Mandatory for recurring patterns (same scenario appearing 3+ times).
 
-## Quick-reference card (20 scenarios)
+## Quick-reference card (28 scenarios)
 
 ### Classic scenarios (1-12)
 
@@ -157,6 +160,18 @@ If yes, append an "环境设计建议" section:
 | 18 | 跨时区远程团队沟通失效 | 主动建立异步沟通规范 | 没规范的远程=没边界的待命 | 规范是远程的边界墙 |
 | 19 | 公司推行 AI 绩效考核 | 配合试用，提优化建议 | AI 考核量化的是执行不是判断——确保你的判断力不被黑盒稀释 | 量化≠公平，黑盒≠透明 |
 | 20 | 职业转型期：旧技能贬值新技能未成型 | 承认转型期，外儒求支持 | 定位：你在学徒期——短期控距保精力，中期聚焦新技能 | 转型期的痛苦是定位滞后 |
+### Life scenarios (21-28)
+
+| # | Scenario | 外儒 (what to say) | 内法 (what to think/do) | One-line decision |
+|---|----------|--------------------|-----------------------|-------------------|
+| 21 | 伴侣消费观不一致 | 认可 ta 的感受 | 区分个人消费 vs 共同利益 | 个人自由+共同决策 |
+| 22 | 父母催婚/催生 | 认可关心，给信号非承诺 | 你的人生节奏由你决定 | 安抚焦虑≠改变决定 |
+| 23 | 朋友借钱 | 能帮就帮，不附加条件 | 借出=赠予的心理准备 | 收不回来的才借 |
+| 24 | 婆媳矛盾伴侣不站你 | 事后私下对齐原则 | 要求小家庭优先原则，不是每次站队 | 原则对齐>逐次博弈 |
+| 25 | 帮人内推工作 | 用流程设门槛 | 内推=信用质押，不背书就不内推 | 不愿背书就不内推 |
+| 26 | 伴侣情绪低落拒绝沟通 | "我就在旁边，想说我随时在" | 给空间但设锚点，持续多天→专业帮助 | 策略层要薄，主要靠陪伴 |
+| 27 | 社交场合不想去 | "下次一定" | 区分不想去 vs 不该去 | 不该去→果断拒绝 |
+| 28 | 拖延和内耗 | "先做最简单的部分" | 用结构代替意志力，环境设计消除摩擦 | 习惯代替自律 |
 
 ## Identity misalignment pain table
 
@@ -257,6 +272,7 @@ Review every 3 months whether the framework is approaching self-obsolescence:
 - Advanced expansion (Part 2, 9 chapters): → `references/advanced-expansion.md`
 - Operating system (Part 3, 9 chapters): → `references/operating-system.md`
 - Scenario library (20+ scenarios, full expansions): → `references/scenario-library.md`
+- Life scenarios (Part 4, 8 scenarios): → `references/life-scenarios.md`
 
 ## Usage modes
 

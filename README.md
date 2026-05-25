@@ -11,6 +11,7 @@
 - **自检工具强化**：30 秒触发器增加"第三方案"检查、周复盘增加趋势列、新增季度 eco-check
 - **训练体系升级**：新增 L5 生态式和 L6 无招层级
 - **场景集中管理**：新增 `references/scenario-library.md`
+- **生活场景扩展**：新增 `references/life-scenarios.md`（8个生活场景：伴侣消费观、父母催婚、朋友借钱、婆媳矛盾、内推、伴侣拒绝沟通、社交拒绝、拖延内耗）
 
 ## 快速安装
 
@@ -62,6 +63,7 @@ wai-ru-nei-fa/
 │   ├── advanced-expansion.md # 升华拓展（9章）
 │   ├── operating-system.md   # 操作系统（9章 + v3.0升级说明）
 │   └── scenario-library.md   # 场景库（20个场景详细分析）
+│   └── life-scenarios.md     # 生活场景（8个场景详细分析）
 ```
 
 ## License
