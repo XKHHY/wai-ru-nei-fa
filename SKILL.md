@@ -4,7 +4,7 @@ description: "Personal adaptive behavior framework: Expectation→Positioning→
 license: CC-BY-4.0
 metadata:
   author: "星空的后花园"
-  version: "3.2"
+  version: "3.3"
   lang: zh-CN
   changelog:
     v3.0: "Added eco-mode (environment design) to execution protocol; expanded scenario library with 8 AI-era/remote/generational scenarios; structured self-check tools; added scenario-library.md; updated training progression to include eco-level."
